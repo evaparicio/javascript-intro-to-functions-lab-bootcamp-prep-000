@@ -20,4 +20,3 @@ function logWhisper(string){
 function sayHiToGrandma(string){
   console.log(string.uppercase)
   return "YES, INDEED"}
-
