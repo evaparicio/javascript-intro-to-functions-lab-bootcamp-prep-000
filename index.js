@@ -1,4 +1,4 @@
-
+var string
 
 function shout(string){
   return string.toUpperCase()
@@ -24,8 +24,7 @@ function sayHiToGrandma(string){
 }else if (string.toUpperCase) {
   console.log ("YES, INDEED!")
   return "YES, INDEED!"
-}
-else {
+}else {
   return "I love you, too."
 }
 }
